@@ -35,7 +35,7 @@ Make sure you have the following tools installed:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/slidesmanager.git](https://github.com/ANUKULUNJ/SlidesManager.git)
+    git clone [https://github.com/your-username/slidesmanager.git](https://github.com/Phoenix681/SlidesManager.git)
     cd slidesmanager
     ```
 
